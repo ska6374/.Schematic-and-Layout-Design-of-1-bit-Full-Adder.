@@ -61,7 +61,6 @@ Full Adder is the adder that adds three inputs and produces two outputs. The fir
 <br>
 <h2>V. Symbol Genarate :  </h2>
 
-
 <br>
 
 ![Screenshot-6](https://github.com/user-attachments/assets/127b1851-bec1-480f-9311-22f86ff4b4cc)

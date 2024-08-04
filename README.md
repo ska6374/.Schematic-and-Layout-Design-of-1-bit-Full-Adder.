@@ -75,10 +75,7 @@ Full Adder is the adder that adds three inputs and produces two outputs. The fir
 <br>
 
 ![DocScanner 03-Aug-2024 9-55 pm](https://github.com/user-attachments/assets/3c64423a-6102-402b-9b05-6730bef70071)
-<br>
-<br>
-<h2>VIII. Conclusion :</h2>
-<br>
+
 
 
 
